@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Чем BFS отличается от DFS?",
+    "expected_keywords": ["BFS", "DFS", "очередь", "стек", "кратчайший"],
+    "relevant_docs": ["lecture_graphs.md"]
+  },
+  {
+    "question": "Какая лекция описывает поиск кратчайшего пути?",
+    "expected_keywords": ["кратчайший", "BFS", "Дейкстра", "лекция 6"],
+    "relevant_docs": ["lecture_shortest_path.md", "lecture_graphs.md"]
+  },
+  {
+    "question": "Что такое QuickSort?",
+    "expected_keywords": ["QuickSort", "O(n log n)", "разделяй"],
+    "relevant_docs": ["lecture_sorting.md"]
+  },
+  {
+    "question": "Гарантирует ли DFS кратчайший путь?",
+    "expected_keywords": ["DFS", "не гарантирует", "кратчайший"],
+    "relevant_docs": ["lecture_graphs.md"]
+  },
+  {
+    "question": "Как найти кратчайший путь в невзвешенном графе?",
+    "expected_keywords": ["BFS", "невзвешенном", "кратчайший"],
+    "relevant_docs": ["lecture_graphs.md", "lecture_shortest_path.md"]
+  }
+]
